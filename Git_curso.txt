@@ -1,1 +1,3 @@
 Git curso prueba v2
+
+Curso de git, prácticando comando
